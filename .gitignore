@@ -1,0 +1,17 @@
+techbairro.db
+*.db
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.zip
+dist/
+build/
+
+.venv/
+venv/
+env/
+
+.DS_Store
+Thumbs.db

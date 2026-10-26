@@ -1,0 +1,24 @@
+TechBairro v3.3.1
+
+REQUISITOS
+- Python 3 instalado.
+- Tkinter e SQLite (normalmente incluídos na instalação padrão do Python).
+- No Linux, pode ser necessário instalar o Tkinter: sudo apt install python3-tk
+
+COMO EXECUTAR
+1. Extraia o pacote do projeto.
+2. Abra um terminal dentro da pasta que contém techbairro.py.
+3. Para executar os testes de validação:
+   python testar_validacao.py
+4. Para abrir o sistema:
+   python techbairro.py
+
+BANCO DE DADOS
+Na primeira execução, o programa cria techbairro.db na pasta do projeto.
+Esse arquivo pode conter dados pessoais dos clientes e, por isso, não deve ser
+adicionado ao repositório Git nem enviado no ZIP de entrega.
+
+HISTÓRICO DO CÓDIGO
+O projeto usa Git. Para ver o histórico, rode na pasta do projeto:
+
+git log --oneline
