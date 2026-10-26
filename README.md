@@ -1,4 +1,4 @@
-# TechBairro v3.3.1
+# TechBairro v3.3.2
 
 Aplicação desktop em Python/Tkinter para cadastro, consulta, edição e exclusão de clientes, com persistência em SQLite.
 
