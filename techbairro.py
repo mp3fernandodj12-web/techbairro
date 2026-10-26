@@ -7,7 +7,7 @@ from cliente import Cliente
 from banco import GerenciadorClientes
 from validacao import ValidadorCliente
 
-VERSAO = "3.3.1"
+VERSAO = "3.3.2"
 
 PASTA_DO_PROJETO = os.path.dirname(os.path.abspath(__file__))
 CAMINHO_BANCO = os.path.join(PASTA_DO_PROJETO, "techbairro.db")
